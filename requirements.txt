@@ -1,0 +1,6 @@
+numpy
+pandas
+jupyter
+tensorflow==0.9.0rc0
+skimage==0.9.0
+keras==1.2.2
